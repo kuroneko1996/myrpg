@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "MyRPG_webgl.data.unityweb",
-"asmCodeUrl": "MyRPG_webgl.asm.code.unityweb",
-"asmMemoryUrl": "MyRPG_webgl.asm.memory.unityweb",
-"asmFrameworkUrl": "MyRPG_webgl.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}
